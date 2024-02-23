@@ -1,7 +1,7 @@
 {
   "name": "hemsida.react",
   "version": "0.1.0",
-  "homepage": "https//AgnesPerala.github.io/hemsida.react",
+  "homepage": "https://AgnesPerala.github.io/hemsida.react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
