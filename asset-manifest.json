@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//AgnesPerala.github.io/hemsida.react/static/css/main.087cabe6.css",
+    "main.js": "/https//AgnesPerala.github.io/hemsida.react/static/js/main.44a21e53.js",
+    "static/js/453.74f9cf3e.chunk.js": "/https//AgnesPerala.github.io/hemsida.react/static/js/453.74f9cf3e.chunk.js",
+    "index.html": "/https//AgnesPerala.github.io/hemsida.react/index.html",
+    "main.087cabe6.css.map": "/https//AgnesPerala.github.io/hemsida.react/static/css/main.087cabe6.css.map",
+    "main.44a21e53.js.map": "/https//AgnesPerala.github.io/hemsida.react/static/js/main.44a21e53.js.map",
+    "453.74f9cf3e.chunk.js.map": "/https//AgnesPerala.github.io/hemsida.react/static/js/453.74f9cf3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087cabe6.css",
+    "static/js/main.44a21e53.js"
+  ]
+}
